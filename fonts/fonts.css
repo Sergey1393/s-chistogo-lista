@@ -1,7 +1,7 @@
 @font-face {
     font-family: "EB Garamondmedium";
     src: local ("EB Garamondmedium"),
-     url("ebgaramondmedium.woff2") format("woff2"),
+    url("ebgaramondmedium.woff2") format("woff2"),
     url("ebgaramondmedium.woff") format("woff"),
     url("ebgaramondmedium.ttf") format("truetype"),
     font-style: normal;

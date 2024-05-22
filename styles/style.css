@@ -1,6 +1,7 @@
 
 body,
 footer {
+    background-color:#1e1e1e;
     width: 360px;
     margin: auto;
     box-sizing: border-box;
@@ -32,6 +33,7 @@ h3 {
 ul {
     padding-left: 20px;
 }
+
 .list {
     padding-bottom: 16px;
     line-height: 21px;
@@ -175,8 +177,6 @@ ul {
     border-radius: 30px;
     background-color: #343434;
 }
-
-
 
 .card__title {
     color: #131313; 
