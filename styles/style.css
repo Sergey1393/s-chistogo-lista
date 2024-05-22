@@ -47,7 +47,7 @@ ul {
 }
 
 .header__menu {
-    display: flex; 
+    display: flex;
     flex-direction:column;
     gap: 12px;
     font-family: "Interregular", "Arial", sans-serif;
@@ -94,8 +94,8 @@ ul {
     display:flex;
     flex-direction:row;
     Justify-content:space-between;
-    padding-left: 20px; 
-    padding-right: 20px; 
+    padding-left: 20px;
+    padding-right: 20px;
     color: #CCCCCC;
     font-family: "Interregular", "Arial", sans-serif;
     font-size: 16px;
@@ -111,7 +111,7 @@ ul {
 .black_content_footer {
     color: #F5F5F5;
     font-family: "Interregular", "Arial", sans-serif;
-    font-size: 16px; 
+    font-size: 16px;
     padding: 0px 20px 37px 20px;
 }
 
@@ -179,7 +179,7 @@ ul {
 }
 
 .card__title {
-    color: #131313; 
+    color: #131313;
 }
 
 .card_bright_shape {
@@ -189,7 +189,7 @@ ul {
     padding: 20px;
     border-radius: 30px;
     background-color: #FEE42A;
-    color: #131313; 
+    color: #131313;
 }
 
 footer {
@@ -207,7 +207,7 @@ footer {
 }
 
 .footer__links {
-    text-decoration: none; 
+    text-decoration: none;
     color: #F5F5F5;
     margin-left: 16px;
 }
