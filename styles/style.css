@@ -48,6 +48,7 @@ h4 {
     gap: 12px;
     font-family: "Interregular", "Arial", sans-serif;
     font-size: 16px;
+    list-style-type: none;
 }
 
 .header__menu-item_active {
@@ -205,14 +206,23 @@ footer {
     padding: 20px;
     display: flex;
     justify-content: space-between;
+    font-size: 16px;
 }
 
 .footer__copy {
-    font-size: 16px;
+
+}
+
+.footer__list {
+    display: flex;
+    flex-direction:row;
+    gap: 16px;
+    justify-content: space-between;
+    list-style-type: none;
 }
 
 .footer__links {
     text-decoration: none;
     color: #F5F5F5;
-    margin-left: 16px;
+    font-size: 14px;
 }
