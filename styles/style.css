@@ -67,7 +67,7 @@ h4 {
     background-size: 95%;
     background-repeat: no-repeat;
     background-position: right bottom;
-    background-image: url("/images/cover.svg");
+    background-image: url("../images/cover.svg");
     min-height: 210px;
 }
 
